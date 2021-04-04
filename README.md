@@ -8,6 +8,6 @@ I'm a full stack Java developer with a passion for gaming.
 - 📫 How to reach me: [Twitter](https://twitter.com/PilotgamerGuy), Discord (PilotgamerGuy#5447), [AMA repo](https://github.com/PilotgamerGuy/AMA)
 - 😄 Pronouns: he/him
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pilotgamerguy&count_private=true&show_icons=true&cache_seconds=1800)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pilotgamerguy&count_private=true&show_icons=true&cache_seconds=1800)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pilotgamerguy&layout=compact)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pilotgamerguy&layout=compact)
